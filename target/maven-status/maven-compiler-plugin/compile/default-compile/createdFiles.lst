@@ -1,0 +1,8 @@
+com\mail\sender\MailSenderApplication.class
+com\mail\sender\controller\MailSenderController.class
+com\mail\sender\config\Constants.class
+com\mail\sender\service\impl\MailSenderServiceImpl.class
+com\mail\sender\config\SwaggerConfig.class
+com\mail\sender\service\MailSenderService.class
+com\mail\sender\dto\MailDTO.class
+com\mail\sender\config\MailConfig.class
